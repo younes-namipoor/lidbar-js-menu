@@ -2,7 +2,7 @@
 ![Screenshot (36)](https://github.com/user-attachments/assets/5c496097-6f84-496e-9729-ac893d730a27)
 
 
-- [Demo Project](https://younes-namipoor.github.io/lidbar-js-menu/)
+- [Demo Project](https://younes-namipoor.github.io/slidbar-js-menu/)
 
 - Coded By Younes namipoor
 
